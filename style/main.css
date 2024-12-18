@@ -191,6 +191,7 @@ a:visited{
 }
 a{
     text-decoration: none;
+    color:currentColor;
 }
 .scrollToTop {
     position: fixed;
